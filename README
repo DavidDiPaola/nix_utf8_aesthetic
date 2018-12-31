@@ -1,10 +1,10 @@
-# nix_text_aesthetic
+# nix_utf8_aesthetic
 simple tool to generate ａｅｓｔｈｅｔｉｃ text
 
 ## usage
-`echo 'How many layers of irony are you on?' | text_aesthetic`
+`echo 'How many layers of irony are you on?' | utf8_aesthetic`
 
 ## building and installing
   - build: `make`
-  - install: `sudo cp text_aesthetic /usr/local/bin`
+  - install: `sudo cp utf8_aesthetic /usr/local/bin/`
 
